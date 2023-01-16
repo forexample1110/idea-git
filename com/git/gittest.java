@@ -10,5 +10,6 @@ public class gittest {
         System.out.println("hot-fix no conflict merge");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("github updating...");
     }
 }
