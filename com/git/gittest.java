@@ -11,5 +11,7 @@ public class gittest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("github updating...");
+
+        System.out.println("push test");
     }
 }
