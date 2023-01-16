@@ -13,6 +13,5 @@ public class gittest {
         System.out.println("github updating...");
 
         System.out.println("push test");
-        System.out.println("pull test");
     }
 }
